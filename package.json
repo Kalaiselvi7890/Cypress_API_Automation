@@ -1,0 +1,16 @@
+{
+  "name": "cypress_api_automation",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalai",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ajv": "^8.13.0",
+    "cypress": "^13.8.1",
+    "xml2js": "^0.6.2"
+  }
+}
